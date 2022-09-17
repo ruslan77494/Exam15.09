@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Lekc14.09\example006giri\obj\Debug\net6.0\example006giri.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lekc14.09\example006giri\obj\Debug\net6.0\example006giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lekc14.09\example006giri\obj\Debug\net6.0\example006giri.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lekc14.09\example006giri\obj\Debug\net6.0\example006giri.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lekc14.09\example006giri\obj\Debug\net6.0\example006giri.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lekc14.09\example006giri\bin\Debug\net6.0\example006giri.exe
+C:\Users\PC\Desktop\Lekc14.09\example006giri\bin\Debug\net6.0\example006giri.deps.json
+C:\Users\PC\Desktop\Lekc14.09\example006giri\bin\Debug\net6.0\example006giri.runtimeconfig.json
+C:\Users\PC\Desktop\Lekc14.09\example006giri\bin\Debug\net6.0\example006giri.dll
+C:\Users\PC\Desktop\Lekc14.09\example006giri\bin\Debug\net6.0\example006giri.pdb
+C:\Users\PC\Desktop\Lekc14.09\example006giri\obj\Debug\net6.0\example006giri.dll
+C:\Users\PC\Desktop\Lekc14.09\example006giri\obj\Debug\net6.0\refint\example006giri.dll
+C:\Users\PC\Desktop\Lekc14.09\example006giri\obj\Debug\net6.0\example006giri.pdb
+C:\Users\PC\Desktop\Lekc14.09\example006giri\obj\Debug\net6.0\example006giri.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lekc14.09\example006giri\obj\Debug\net6.0\ref\example006giri.dll
