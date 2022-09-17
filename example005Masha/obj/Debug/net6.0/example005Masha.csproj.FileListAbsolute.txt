@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\bin\Debug\net6.0\example005Masha.exe
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\bin\Debug\net6.0\example005Masha.deps.json
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\bin\Debug\net6.0\example005Masha.runtimeconfig.json
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\bin\Debug\net6.0\example005Masha.dll
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\bin\Debug\net6.0\example005Masha.pdb
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\obj\Debug\net6.0\example005Masha.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\obj\Debug\net6.0\example005Masha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\obj\Debug\net6.0\example005Masha.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\obj\Debug\net6.0\example005Masha.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\obj\Debug\net6.0\example005Masha.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\obj\Debug\net6.0\example005Masha.dll
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\obj\Debug\net6.0\refint\example005Masha.dll
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\obj\Debug\net6.0\example005Masha.pdb
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\obj\Debug\net6.0\example005Masha.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lekc14.09\example005Masha\obj\Debug\net6.0\ref\example005Masha.dll
