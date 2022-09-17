@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\bin\Debug\net6.0\example007tochki.exe
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\bin\Debug\net6.0\example007tochki.deps.json
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\bin\Debug\net6.0\example007tochki.runtimeconfig.json
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\bin\Debug\net6.0\example007tochki.dll
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\bin\Debug\net6.0\example007tochki.pdb
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\obj\Debug\net6.0\example007tochki.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\obj\Debug\net6.0\example007tochki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\obj\Debug\net6.0\example007tochki.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\obj\Debug\net6.0\example007tochki.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\obj\Debug\net6.0\example007tochki.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\obj\Debug\net6.0\example007tochki.dll
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\obj\Debug\net6.0\refint\example007tochki.dll
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\obj\Debug\net6.0\example007tochki.pdb
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\obj\Debug\net6.0\example007tochki.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lekc14.09\example007tochki\obj\Debug\net6.0\ref\example007tochki.dll
